@@ -1,0 +1,7 @@
+a = float(input("write the nember a ; "))
+b = float(input("write the nember b ; "))
+m = a*b
+if m>0 :
+    print(" this nember have the same sign")
+else :
+    print("this nember doesn't have the same sign")
